@@ -39,6 +39,6 @@ See requirements.text for package requirements.
 
 Rina Tse  - tserina716@gmail.com
 
-Project Link: https://github.com/Rtse716/Toronto_Predict_Homicide_Rates
+Project Link: https://github.com/Rtse716/Predict_strokes
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
