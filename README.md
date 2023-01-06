@@ -29,6 +29,7 @@ Svm() GaussianNB()
 RandomForestClassifier() 
 DecisionTreeClassifier()
 
+*When testing the model with user input, refer to the stroke_data.xlsx for values to input
 ### Prerequisites
 
 This project is buil using python 3.8.
