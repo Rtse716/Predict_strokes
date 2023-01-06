@@ -1,2 +1,44 @@
-# Predict_strokes
-Project: Stroke Prediction Model for DSTI
+<h3 align="center"> DSTI ML Project: Develop an end-to-end Machine Learning Pipeline</h3>
+
+  <p align="center">
+    This project aims to identify geographic and demographic contributors to homicide rates in Toronto, Canada, then to use those contributors to predict homicide rates. 
+  </p>
+</div>
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+This project aims to identify individual and possible environmental contributors to the occurrence of strokes and to use those features to predict the occurrence of stroke. 
+
+This is a machine learning project for Data ScienceTech Institute, Applied MSc in Data Science & Artificial Intelligence
+Course: Python Machine Learning Labs
+Project: Stroke Prediction Model
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+Download the stroke_data.xlsx to your local directory
+
+In line 21, replace FILE_PATH in 'stroke_df = pd.read_excel(FILE_PATH)' with your file path.
+
+Other classification models to test from line 124 include:
+
+LogisticRegression()
+Svm() GaussianNB() 
+RandomForestClassifier() 
+DecisionTreeClassifier()
+
+### Prerequisites
+
+This project is buil using python 3.8.
+See requirements.text for package requirements. 
+
+<!-- CONTACT -->
+## Contact
+
+Rina Tse  - tserina716@gmail.com
+
+Project Link: https://github.com/Rtse716/Toronto_Predict_Homicide_Rates
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
