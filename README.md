@@ -1,15 +1,13 @@
 <h3 align="center"> DSTI ML Project: Develop an end-to-end Machine Learning Pipeline</h3>
 
   <p align="center">
-    This project aims to identify geographic and demographic contributors to homicide rates in Toronto, Canada, then to use those contributors to predict homicide rates. 
+    This project aims to identify individual and possible environmental contributors to the occurrence of strokes and to use those features to predict the occurrence of stroke. 
   </p>
 </div>
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
-This project aims to identify individual and possible environmental contributors to the occurrence of strokes and to use those features to predict the occurrence of stroke. 
+## About The Project 
 
 This is a machine learning project for Data ScienceTech Institute, Applied MSc in Data Science & Artificial Intelligence
 Course: Python Machine Learning Labs
